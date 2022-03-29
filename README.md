@@ -1,1 +1,1 @@
-# odin_recipes
+A simple website with high-protein shake recipes
